@@ -1,6 +1,6 @@
-# List of counties in Kenya
+# List of Kenyan counties, theri respective subcounties and their polygon boundaries
 
-This .JSON file shows the list of counties in Kenya, their codes and respective sub counties.
+This .JSON file shows the list of (47) counties in Kenya, their codes, their geoJSON info(polygon coordinates) and respective subcounties.
 
 ### The .json structure — key and value pairs
 ```
@@ -63,24 +63,11 @@ This .JSON file shows the list of counties in Kenya, their codes and respective 
 ]
 ```
 
-### Using Ionic/Angular
+### counties/{county}.json
 
-If you are using TypeScript, here's a service to retrieve the counties.
-```
-import { Http } from '@angular/http';
-import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs/Observable';
-import 'rxjs/add/operator/map';
+This .JSON file contains the [OSM](https://www.openstreetmap.org/) information for the county.
 
-@Injectable()
-export class CountiesProvider {
 
-  constructor(public http: Http) {}
+### geojson/${county}.json
 
-  public getJSON(): Observable<any> {
-    return this.http.get('absolute/path/of/counties.json')
-        .map(res => res.json());
-  }
-
-}
-```
+Polygons are represented by the coordinates of their vertices. The vertices are represented using WGS 84 latitude and longitude pairs. 
