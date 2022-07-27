@@ -1,0 +1,121 @@
+{
+    "place_id": 285606557,
+    "parent_place_id": 285121105,
+    "osm_type": "R",
+    "osm_id": 3495541,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Garissa",
+    "names": {
+        "ISO3166-2": "KE-07",
+        "name": "Garissa",
+        "name:ar": "غاريسا",
+        "name:ceb": "Garissa",
+        "name:de": "Garissa",
+        "name:en": "Garissa",
+        "name:es": "Garissa",
+        "name:fa": "گاریسا",
+        "name:fr": "Garissa",
+        "name:id": "Garissa",
+        "name:it": "Garissa",
+        "name:ja": "ガリッサ",
+        "name:ko": "가리사현",
+        "name:nan": "Garissa",
+        "name:nl": "Garissa",
+        "name:no": "Garissa",
+        "name:pl": "Garissa",
+        "name:pt": "Garissa",
+        "name:ru": "Гарисса",
+        "name:sv": "Garissa",
+        "name:sw": "Garissa",
+        "name:ur": "گاریسا",
+        "name:vi": "Garissa",
+        "name:zh": "加里薩郡",
+        "name:zu": "Garissa"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T13:14:43+00:00",
+    "importance": 0,
+    "calculated_importance": 0.55,
+    "extratags": {
+        "wikidata": "Q1494292",
+        "wikipedia": "en:Garissa County"
+    },
+    "calculated_wikipedia": null,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            40.356386905787105,
+            -0.52360305
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.356386906,
+            -0.52360305
+        ]
+    },
+    "address": [
+        {
+            "localname": "Garissa",
+            "place_id": 285606557,
+            "osm_id": 3495541,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Northeast Kenya",
+            "place_id": 285121105,
+            "osm_id": 9721622,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.5850964729636037e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

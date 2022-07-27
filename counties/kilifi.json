@@ -1,0 +1,127 @@
+{
+    "place_id": 284294311,
+    "parent_place_id": 285741286,
+    "osm_type": "R",
+    "osm_id": 3495545,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kilifi County",
+    "names": {
+        "ISO3166-2": "KE-14",
+        "name": "Kilifi",
+        "name:ceb": "Kilifi",
+        "name:de": "Kilifi County",
+        "name:en": "Kilifi County",
+        "name:es": "Condado de Kilifi",
+        "name:fa": "شهرستان کیلیفی",
+        "name:fi": "Kilifin piirikunta",
+        "name:fr": "Comté de Kilifi",
+        "name:id": "County Kilifi",
+        "name:it": "Contea di Kilifi",
+        "name:ja": "キリフィ",
+        "name:ko": "킬리피현",
+        "name:nan": "Kilifi Kūn",
+        "name:nl": "Kilifi County",
+        "name:no": "Kilifi fylke",
+        "name:pl": "Kilifi",
+        "name:sv": "Kilifi",
+        "name:sw": "Kaunti ya Kilifi",
+        "name:ur": "کیلیفی کاؤنٹی",
+        "name:vi": "Kilifi",
+        "name:zh": "基利菲郡",
+        "name:zu": "Kilifi County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-19T11:52:28+00:00",
+    "importance": 0.4178628547155853,
+    "calculated_importance": 0.4178628547155853,
+    "extratags": {
+        "CONST_CODE": "13",
+        "CONSTITUEN": "KALOLENI",
+        "COUNTY_COD": "3",
+        "COUNTY_NAM": "KILIFI",
+        "id": "6731",
+        "OBJECTID": "4",
+        "Shape_Area": "1.02533838151",
+        "Shape_Leng": "5.33308007101",
+        "wikidata": "Q1741307",
+        "wikipedia": "en:Kilifi County"
+    },
+    "calculated_wikipedia": "en:Kilifi_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            39.67507159193717,
+            -3.15073925
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.675071592,
+            -3.15073925
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kilifi County",
+            "place_id": 284294311,
+            "osm_id": 3495545,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Coastal Kenya",
+            "place_id": 285741286,
+            "osm_id": 9721636,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 7.563265009120512e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

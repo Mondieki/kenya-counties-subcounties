@@ -1,0 +1,106 @@
+{
+    "place_id": 298397264,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3338145,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Narok",
+    "names": {
+        "ISO3166-2": "KE-33",
+        "name": "Narok",
+        "name:ceb": "Narok",
+        "name:de": "Narok",
+        "name:en": "Narok",
+        "name:es": "Narok",
+        "name:fa": "شهرستان ناروک",
+        "name:id": "Narok",
+        "name:it": "Narok",
+        "name:ja": "ナロク",
+        "name:ko": "나로크현",
+        "name:nan": "Narok",
+        "name:nl": "Narok",
+        "name:no": "Narok",
+        "name:pl": "Narok",
+        "name:ru": "Нарок",
+        "name:sv": "Narok",
+        "name:sw": "Narok",
+        "name:ur": "ناروک",
+        "name:vi": "Narok",
+        "name:zh": "納羅克郡",
+        "name:zu": "Narok",
+        "ref": "33"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.40858356362112863,
+    "calculated_importance": 0.40858356362112863,
+    "extratags": {
+        "wikidata": "Q1852220",
+        "wikipedia": "en:Narok County"
+    },
+    "calculated_wikipedia": "en:Narok_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.47742284932569,
+            -1.2779365500000002
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.477422849,
+            -1.27793655
+        ]
+    },
+    "address": [
+        {
+            "localname": "Narok",
+            "place_id": 298397264,
+            "osm_id": 3338145,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

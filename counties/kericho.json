@@ -1,0 +1,113 @@
+{
+    "place_id": 284764265,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3486288,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kericho County",
+    "names": {
+        "ISO3166-2": "KE-12",
+        "name": "Kericho",
+        "name:ceb": "Kericho",
+        "name:de": "Kericho County",
+        "name:en": "Kericho County",
+        "name:es": "Condado de Kericho",
+        "name:fa": "شهرستان کریچو",
+        "name:fi": "Kerichon piirikunta",
+        "name:id": "County Kericho",
+        "name:it": "Contea di Kericho",
+        "name:ja": "ケリチョ",
+        "name:ko": "케리초현",
+        "name:nan": "Kericho Kūn",
+        "name:nl": "Kericho County",
+        "name:no": "Kericho fylke",
+        "name:pl": "Kericho",
+        "name:sv": "Kericho",
+        "name:sw": "Kaunti ya Kericho",
+        "name:ur": "کیریچو کاؤنٹی",
+        "name:vi": "Kericho",
+        "name:zh": "凱里喬郡",
+        "name:zu": "Kericho County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-13T06:21:49+00:00",
+    "importance": 0.4003188007738509,
+    "calculated_importance": 0.4003188007738509,
+    "extratags": {
+        "CONST_CODE": "192",
+        "CONSTITUEN": "BELGUT",
+        "COUNTY_COD": "35",
+        "COUNTY_NAM": "KERICHO",
+        "id": "3434",
+        "OBJECTID": "35",
+        "Shape_Area": "0.20964797953",
+        "Shape_Leng": "3.4293911554",
+        "wikidata": "Q1739252",
+        "wikipedia": "en:Kericho County"
+    },
+    "calculated_wikipedia": "en:Kericho_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.226127597753845,
+            -0.32099679999999997
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.226127598,
+            -0.3209968
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kericho County",
+            "place_id": 284764265,
+            "osm_id": 3486288,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

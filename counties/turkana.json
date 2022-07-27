@@ -1,0 +1,107 @@
+{
+    "place_id": 297859937,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495564,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Turkana County",
+    "names": {
+        "ISO3166-2": "KE-43",
+        "name": "Turkana",
+        "name:ar": "توركانا",
+        "name:ceb": "Turkana",
+        "name:de": "Turkana County",
+        "name:en": "Turkana County",
+        "name:es": "Condado de Turkana",
+        "name:fa": "شهرستان تورکانا",
+        "name:fr": "Comté de Turkana",
+        "name:id": "Kabupaten Turkana",
+        "name:it": "Contea di Turkana",
+        "name:ja": "トゥルカナ",
+        "name:ko": "투르카나현",
+        "name:nan": "Turkana Kūn",
+        "name:nl": "Turkana County",
+        "name:no": "Turkana fylke",
+        "name:pl": "Turkana",
+        "name:sv": "Turkana",
+        "name:sw": "Kaunti ya Turkana",
+        "name:ur": "ترکانا کاؤنٹی",
+        "name:vi": "Turkana",
+        "name:zh": "圖爾卡納郡",
+        "name:zu": "Turkana County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.44157890777664405,
+    "calculated_importance": 0.44157890777664405,
+    "extratags": {
+        "OBJECTID": "23",
+        "wikidata": "Q1633078",
+        "wikipedia": "en:Turkana County"
+    },
+    "calculated_wikipedia": "en:Turkana_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.59772282185919,
+            2.76556575
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.597722822,
+            2.76556575
+        ]
+    },
+    "address": [
+        {
+            "localname": "Turkana County",
+            "place_id": 297859937,
+            "osm_id": 3495564,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

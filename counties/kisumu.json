@@ -1,0 +1,120 @@
+{
+    "place_id": 284726511,
+    "parent_place_id": 285085359,
+    "osm_type": "R",
+    "osm_id": 3486289,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kisumu County",
+    "names": {
+        "ISO3166-2": "KE-17",
+        "name": "Kisumu",
+        "name:ar": "منطقة كيزيمو",
+        "name:ceb": "Kisumu",
+        "name:de": "Kisumu County",
+        "name:en": "Kisumu County",
+        "name:es": "Condado de Kisumu",
+        "name:fa": "شهرستان کیسومو",
+        "name:fr": "Comté de Kisumu",
+        "name:id": "County Kisumu",
+        "name:it": "Contea di Kisumu",
+        "name:ja": "キスム",
+        "name:ko": "키수무현",
+        "name:nan": "Kisumu Kūn",
+        "name:nl": "Kisumu County",
+        "name:no": "Kisumu fylke",
+        "name:pl": "Kisumu",
+        "name:pt": "Quisumu",
+        "name:sv": "Kisumu",
+        "name:sw": "Kaunti ya Kisumu",
+        "name:ur": "کسیمو کاؤنٹی",
+        "name:vi": "Kisumu",
+        "name:zh": "基蘇木郡",
+        "name:zu": "Kisumu County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-04-19T05:35:10+00:00",
+    "importance": 0.4109789065133428,
+    "calculated_importance": 0.4109789065133428,
+    "extratags": {
+        "wikidata": "Q1743809",
+        "wikipedia": "en:Kisumu County"
+    },
+    "calculated_wikipedia": "en:Kisumu_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.7778573178751,
+            -0.197126
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.777857318,
+            -0.197126
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kisumu County",
+            "place_id": 284726511,
+            "osm_id": 3486289,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 285085359,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 0.4488424423202258,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

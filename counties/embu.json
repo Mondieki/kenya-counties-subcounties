@@ -1,0 +1,131 @@
+{
+    "place_id": 285340588,
+    "parent_place_id": 285443095,
+    "osm_type": "R",
+    "osm_id": 3495540,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Embu",
+    "names": {
+        "ISO3166-2": "KE-06",
+        "name": "Embu",
+        "name:ceb": "Embu",
+        "name:de": "Embu",
+        "name:en": "Embu",
+        "name:es": "Embu",
+        "name:fa": "شهرستان امبو",
+        "name:fi": "Embun",
+        "name:fr": "Embu",
+        "name:id": "Embu",
+        "name:it": "Embu",
+        "name:ja": "エンブ",
+        "name:ko": "엠부현",
+        "name:nan": "Embu",
+        "name:nl": "Embu",
+        "name:no": "Embu",
+        "name:pl": "Embu",
+        "name:pt": "Embu",
+        "name:sv": "Embu",
+        "name:sw": "Embu",
+        "name:ur": "عمبو",
+        "name:vi": "Embu",
+        "name:zh": "恩布郡",
+        "name:zu": "Embu"
+    },
+    "addresstags": {
+        "continent": "Africa",
+        "country": "KE"
+    },
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-19T11:13:56+00:00",
+    "importance": 0.4093119917908739,
+    "calculated_importance": 0.4093119917908739,
+    "extratags": {
+        "CONST_CODE": "64",
+        "CONSTITUEN": "RUNYENJES",
+        "COUNTY_COD": "14",
+        "COUNTY_NAM": "EMBU",
+        "ID_": "3567",
+        "OBJECTID": "15",
+        "Shape_Area": "0.22934267389",
+        "Shape_Leng": "3.20577801845",
+        "wikidata": "Q1335242",
+        "wikipedia": "en:Embu County"
+    },
+    "calculated_wikipedia": "en:Embu_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.6652884382665,
+            -0.5359479
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.665288438,
+            -0.5359479
+        ]
+    },
+    "address": [
+        {
+            "localname": "Embu",
+            "place_id": 285340588,
+            "osm_id": 3495540,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 285443095,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.9541228670456805e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "place_id": 285431919,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495537,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Baringo",
+    "names": {
+        "ISO3166-2": "KE-01",
+        "name": "Baringo",
+        "name:ceb": "Baringo",
+        "name:de": "Baringo",
+        "name:en": "Baringo",
+        "name:es": "Baringo",
+        "name:fa": "شهرستان بارینگو",
+        "name:fr": "Baringo",
+        "name:id": "Baringo",
+        "name:it": "Baringo",
+        "name:ja": "バリンゴ",
+        "name:ko": "바링고현",
+        "name:nan": "Baringo",
+        "name:nl": "County",
+        "name:no": "Baringo",
+        "name:pl": "Baringo",
+        "name:ru": "Баринго",
+        "name:sv": "Baringo",
+        "name:sw": "Baringo",
+        "name:uk": "Баринго",
+        "name:ur": "بارنگو کاؤنٹی",
+        "name:vi": "Baringo",
+        "name:zh": "巴林戈郡",
+        "name:zu": "Baringo"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-19T11:48:29+00:00",
+    "importance": 0.4218624012455261,
+    "calculated_importance": 0.4218624012455261,
+    "extratags": {
+        "CONST_CODE": "159",
+        "CONSTITUEN": "BARINGO CENTRAL",
+        "COUNTY_COD": "30",
+        "COUNTY_NAM": "BARINGO",
+        "ID_": "1555",
+        "OBJECTID": "29",
+        "Shape_Area": "0.88451236882",
+        "Shape_Leng": "5.81571392065",
+        "wikidata": "Q808201",
+        "wikipedia": "en:Baringo County"
+    },
+    "calculated_wikipedia": "en:Baringo_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.020141937892475,
+            0.72444025
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.020141938,
+            0.72444025
+        ]
+    },
+    "address": [
+        {
+            "localname": "Baringo",
+            "place_id": 285431919,
+            "osm_id": 3495537,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

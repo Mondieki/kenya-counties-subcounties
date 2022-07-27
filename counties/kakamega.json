@@ -1,0 +1,127 @@
+{
+    "place_id": 285312910,
+    "parent_place_id": 285792318,
+    "osm_type": "R",
+    "osm_id": 3495543,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kakamega County",
+    "names": {
+        "ISO3166-2": "KE-11",
+        "name": "Kakamega",
+        "name:ceb": "Kakamega",
+        "name:de": "Kakamega County",
+        "name:en": "Kakamega County",
+        "name:es": "Condado de Kakamega",
+        "name:fa": "شهرستان کاکامگا",
+        "name:fi": "Kakamegan piirikunta",
+        "name:fr": "Comté de Kakamega",
+        "name:id": "County Kakamega",
+        "name:it": "Contea di Kakamega",
+        "name:ja": "カカメガ",
+        "name:ko": "카카메가현",
+        "name:nan": "Kakamega Kūn",
+        "name:nl": "Kakamega County",
+        "name:no": "Kakamega fylke",
+        "name:pl": "Kakamega",
+        "name:sv": "Kakamega",
+        "name:sw": "Kaunti ya Kakamega",
+        "name:ur": "کاکامیگا کاؤنٹی",
+        "name:vi": "Kakamega",
+        "name:zh": "卡卡梅加郡",
+        "name:zu": "Kakamega County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-13T07:15:39+00:00",
+    "importance": 0.4096329945965867,
+    "calculated_importance": 0.4096329945965867,
+    "extratags": {
+        "CONST_CODE": "209",
+        "CONSTITUEN": "SHINYALU",
+        "COUNTY_COD": "37",
+        "COUNTY_NAM": "KAKAMEGA",
+        "id": "1819",
+        "OBJECTID": "36",
+        "Shape_Area": "0.24446094982",
+        "Shape_Leng": "3.81209259444",
+        "wikidata": "Q1721867",
+        "wikipedia": "en:Kakamega County"
+    },
+    "calculated_wikipedia": "en:Kakamega_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.801548861634615,
+            0.4957104
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.801548862,
+            0.4957104
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kakamega County",
+            "place_id": 285312910,
+            "osm_id": 3495543,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "West Kenya",
+            "place_id": 285792318,
+            "osm_id": 9721837,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 3.133692047774714e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

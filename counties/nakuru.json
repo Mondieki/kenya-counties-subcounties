@@ -1,0 +1,113 @@
+{
+    "place_id": 298043523,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3486019,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nakuru",
+    "names": {
+        "ISO3166-2": "KE-31",
+        "name": "Nakuru",
+        "name:ceb": "Nakuru",
+        "name:de": "Nakuru",
+        "name:en": "Nakuru",
+        "name:es": "Nakuru",
+        "name:fa": "شهرستان ناکورو",
+        "name:fi": "Nakurun",
+        "name:fr": "Nakuru",
+        "name:id": "Nakuru",
+        "name:it": "Nakuru",
+        "name:ja": "ナクル",
+        "name:ko": "나쿠루현",
+        "name:nan": "Nakuru",
+        "name:nl": "Nakuru",
+        "name:no": "Nakuru",
+        "name:pl": "Nakuru",
+        "name:sv": "Nakuru",
+        "name:sw": "Nakuru",
+        "name:ur": "ناکورو کاؤنٹی",
+        "name:vi": "Nakuru",
+        "name:zh": "納庫魯郡",
+        "name:zu": "Nakuru"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.4119115709599313,
+    "calculated_importance": 0.4119115709599313,
+    "extratags": {
+        "CONST_CODE": "172",
+        "CONSTITUEN": "SUBUKIA",
+        "COUNTY_COD": "32",
+        "COUNTY_NAM": "NAKURU",
+        "OBJECTID": "31",
+        "Shape_Area": "0.60725078911",
+        "Shape_Leng": "6.33797592365",
+        "wikidata": "Q1852202",
+        "wikipedia": "en:Nakuru County"
+    },
+    "calculated_wikipedia": "en:Nakuru_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.10080381595827,
+            -0.4598213
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.100803816,
+            -0.4598213
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nakuru",
+            "place_id": 298043523,
+            "osm_id": 3486019,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

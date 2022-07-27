@@ -1,0 +1,112 @@
+{
+    "place_id": 297991629,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495549,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Laikipia County",
+    "names": {
+        "ISO3166-2": "KE-20",
+        "name": "Laikipia",
+        "name:ceb": "Laikipia",
+        "name:de": "Laikipia County",
+        "name:en": "Laikipia County",
+        "name:es": "Condado de Laikipia",
+        "name:fa": "شهرستان لایکیپیا",
+        "name:fr": "Comté de Laikipia",
+        "name:id": "County Laikipia",
+        "name:it": "Contea di Laikipia",
+        "name:ja": "ライキピア",
+        "name:ko": "라이키피아현",
+        "name:nan": "Laikipia Kūn",
+        "name:nl": "Laikipia County",
+        "name:no": "Laikipia fylke",
+        "name:pl": "Laikipia",
+        "name:sv": "Laikipia",
+        "name:sw": "Kaunti ya Laikipia",
+        "name:ur": "لائکی پیا کاؤنٹی",
+        "name:vi": "Laikipia",
+        "name:zh": "萊基皮亞郡",
+        "name:zu": "Laikipia County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.41514228392298097,
+    "calculated_importance": 0.41514228392298097,
+    "extratags": {
+        "CONST_CODE": "165",
+        "CONSTITUEN": "LAIKIPIA NORTH",
+        "COUNTY_COD": "31",
+        "COUNTY_NAM": "Laikipia",
+        "id": "1416",
+        "OBJECTID": "30",
+        "Shape_Area": "0.77470766941",
+        "Shape_Leng": "5.22280558966",
+        "wikidata": "Q1800699"
+    },
+    "calculated_wikipedia": "en:Laikipia_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.825771076829064,
+            0.2858452
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.825771077,
+            0.2858452
+        ]
+    },
+    "address": [
+        {
+            "localname": "Laikipia County",
+            "place_id": 297991629,
+            "osm_id": 3495549,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

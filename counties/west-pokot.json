@@ -1,0 +1,106 @@
+{
+    "place_id": 298723381,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 11981571,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "West Pokot",
+    "names": {
+        "ISO3166-2": "KE-47",
+        "name": "West Pokot",
+        "name:ceb": "West Pokot",
+        "name:de": "West Pokot",
+        "name:en": "West Pokot",
+        "name:es": "West Pokot",
+        "name:fa": "شهرستان پوکوت غربی",
+        "name:fi": "Länsi-Pokotin",
+        "name:id": "West Pokot",
+        "name:it": "West Pokot",
+        "name:ja": "西ポコット",
+        "name:ko": "서포코트현",
+        "name:nan": "West Pokot",
+        "name:nl": "West-Pokot",
+        "name:no": "West Pokot",
+        "name:pl": "West Pokot",
+        "name:ru": "Западный покотский",
+        "name:sv": "Västra Pokot",
+        "name:sw": "West Pokot",
+        "name:ur": "مغربی پوکوت کاؤنٹی",
+        "name:vi": "West Pokot",
+        "name:zh": "西波克特郡",
+        "name:zu": "West Pokot"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.4032282447532356,
+    "calculated_importance": 0.4032282447532356,
+    "extratags": {
+        "wikidata": "Q590860",
+        "wikipedia": "en:West Pokot County"
+    },
+    "calculated_wikipedia": "en:West_Pokot_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.21061300684997,
+            1.8798607999999999
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.210613007,
+            1.8798608
+        ]
+    },
+    "address": [
+        {
+            "localname": "West Pokot",
+            "place_id": 298723381,
+            "osm_id": 11981571,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

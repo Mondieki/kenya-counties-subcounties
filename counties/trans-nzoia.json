@@ -1,0 +1,115 @@
+{
+    "place_id": 298450559,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495563,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Trans-Nzoia County",
+    "names": {
+        "ISO3166-2": "KE-42",
+        "name": "Trans Nzoia",
+        "name:ceb": "Trans Nzoia",
+        "name:de": "Trans-Nzoia County",
+        "name:en": "Trans-Nzoia County",
+        "name:es": "Condado de Trans-Nzoia",
+        "name:et": "Trans Nzoia maakond",
+        "name:fa": "شهرستان ترانس انزویا",
+        "name:fr": "Comté de Trans-Nzoia",
+        "name:id": "County Trans-Nzoia",
+        "name:it": "Contea di Trans-Nzoia",
+        "name:ja": "トランス・ンゾイア",
+        "name:ko": "트랜스은조이아현",
+        "name:nan": "Trans-Nzoia Kūn",
+        "name:nl": "Trans-Nzoia County",
+        "name:no": "Trans-Nzoia fylke",
+        "name:pl": "Trans Nzoia",
+        "name:ru": "Занзойский округ",
+        "name:sv": "Trans-Nzoia",
+        "name:sw": "Kaunti ya Trans-Nzoia",
+        "name:ur": "ٹرانس-نزویا کاؤنٹی",
+        "name:vi": "Trans-Nzoia",
+        "name:zh": "特蘭斯-恩佐亞郡",
+        "name:zu": "Trans-Nzoia County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.3907715567723952,
+    "calculated_importance": 0.3907715567723952,
+    "extratags": {
+        "CONST_CODE": "137",
+        "CONSTITUEN": "ENDEBESS",
+        "COUNTY_COD": "26",
+        "COUNTY_NAM": "TRANS NZOIA",
+        "id": "667",
+        "OBJECTID": "47",
+        "Shape_Area": "0.20192419449",
+        "Shape_Leng": "2.33533782345",
+        "wikidata": "Q1278653",
+        "wikipedia": "en:Trans-Nzoia County"
+    },
+    "calculated_wikipedia": "en:Trans-Nzoia_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.97904397271594,
+            1.0454582499999998
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.979043973,
+            1.04545825
+        ]
+    },
+    "address": [
+        {
+            "localname": "Trans-Nzoia County",
+            "place_id": 298450559,
+            "osm_id": 3495563,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

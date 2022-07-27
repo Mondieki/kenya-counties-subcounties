@@ -1,0 +1,128 @@
+{
+    "place_id": 285053331,
+    "parent_place_id": 285443095,
+    "osm_type": "R",
+    "osm_id": 3495547,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kitui County",
+    "names": {
+        "ISO3166-2": "KE-18",
+        "name": "Kitui",
+        "name:ceb": "Kitui",
+        "name:da": "Kitui",
+        "name:de": "Kitui County",
+        "name:en": "Kitui County",
+        "name:es": "Condado de Kitui",
+        "name:fa": "شهرستان کیتوی",
+        "name:fi": "Kituin piirikunta",
+        "name:fr": "Comté de Kitui",
+        "name:id": "County Kitui",
+        "name:it": "Contea di Kitui",
+        "name:ja": "キツイ",
+        "name:ko": "키투이현",
+        "name:nan": "Kitui Kūn",
+        "name:nl": "Kitui County",
+        "name:no": "Kitui fylke",
+        "name:pl": "Kitui",
+        "name:sv": "Kitui",
+        "name:sw": "Kaunti ya Kitui",
+        "name:ur": "کیتوئی کاؤنٹی",
+        "name:vi": "Kitui",
+        "name:zh": "基圖伊郡",
+        "name:zu": "Kitui County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T10:33:48+00:00",
+    "importance": 0.4239912043659237,
+    "calculated_importance": 0.4239912043659237,
+    "extratags": {
+        "CONST_CODE": "73",
+        "CONSTITUEN": "KITUI EAST",
+        "COUNTY_COD": "15",
+        "COUNTY_NAM": "KITUI",
+        "ID_": "5251",
+        "OBJECTID": "16",
+        "Shape_Area": "2.47528086643",
+        "Shape_Leng": "8.74448750335",
+        "wikidata": "Q1722597",
+        "wikipedia": "en:Kitui County"
+    },
+    "calculated_wikipedia": "en:Kitui_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            38.372811654368775,
+            -1.5642219499999999
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.372811654,
+            -1.56422195
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kitui County",
+            "place_id": 285053331,
+            "osm_id": 3495547,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 285443095,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 2.7525470572300685e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

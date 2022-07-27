@@ -1,0 +1,126 @@
+{
+    "place_id": 298369053,
+    "parent_place_id": 298569054,
+    "osm_type": "R",
+    "osm_id": 3495552,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Marsabit County",
+    "names": {
+        "ISO3166-2": "KE-25",
+        "name": "Marsabit",
+        "name:ceb": "Marsabit",
+        "name:de": "Marsabit County",
+        "name:en": "Marsabit County",
+        "name:es": "Condado de Marsabit",
+        "name:fa": "شهرستان مارسابیت",
+        "name:fr": "Comté de Marsabit",
+        "name:id": "County Marsabit",
+        "name:it": "Contea di Marsabit",
+        "name:ja": "マルサビット",
+        "name:ko": "마르사비트현",
+        "name:nan": "Marsabit Kūn",
+        "name:nl": "Marsabit County",
+        "name:no": "Marsabit fylke",
+        "name:pl": "Marsabit",
+        "name:sv": "Marsabit",
+        "name:sw": "Kaunti ya Marsabit",
+        "name:ur": "مارسابیت کاؤنٹی",
+        "name:vi": "Marsabit",
+        "name:zh": "馬薩比特郡",
+        "name:zu": "Marsabit County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.42996907043929583,
+    "calculated_importance": 0.42996907043929583,
+    "extratags": {
+        "CONST_CODE": "46",
+        "CONSTITUEN": "NORTH HORR",
+        "COUNTY_COD": "10",
+        "COUNTY_NAM": "MARSABIT",
+        "ID_": "133",
+        "OBJECTID": "11",
+        "Shape_Area": "6.18501666925",
+        "Shape_Leng": "11.8969963206",
+        "wikidata": "Q1323683",
+        "wikipedia": "en:Marsabit County"
+    },
+    "calculated_wikipedia": "en:Marsabit_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.715489185900395,
+            2.85795825
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.715489186,
+            2.85795825
+        ]
+    },
+    "address": [
+        {
+            "localname": "Marsabit County",
+            "place_id": 298369053,
+            "osm_id": 3495552,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 298569054,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.899151590501951e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

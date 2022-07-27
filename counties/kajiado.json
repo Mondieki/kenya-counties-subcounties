@@ -1,0 +1,110 @@
+{
+    "place_id": 285519126,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3486020,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kajiado County",
+    "names": {
+        "ISO3166-2": "KE-10",
+        "name": "Kajiado",
+        "name:ceb": "Kajiado",
+        "name:de": "Kajiado",
+        "name:en": "Kajiado County",
+        "name:es": "Condado de Kajiado",
+        "name:fa": "شهرستان کاجیادو",
+        "name:fr": "Comté de Kajiado",
+        "name:id": "County Kajiado",
+        "name:it": "Contea di Kajiado",
+        "name:ja": "カジアド",
+        "name:ko": "카지아도현",
+        "name:nan": "Kajiado Kūn",
+        "name:nl": "Kajiado County",
+        "name:no": "Kajiado fylke",
+        "name:pl": "Kajiado",
+        "name:pt": "Distrito de Kajiado",
+        "name:sv": "Kajiado",
+        "name:sw": "Kaunti ya Kajiado",
+        "name:uk": "Каджіадо",
+        "name:ur": "کاجیادو کاؤنٹی",
+        "name:vi": "Kajiado",
+        "name:zh": "卡耶亞多郡",
+        "name:zu": "Kajiado County"
+    },
+    "addresstags": {
+        "continent": "Africa",
+        "country": "KE"
+    },
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T10:33:48+00:00",
+    "importance": 0.4232897416536588,
+    "calculated_importance": 0.4232897416536588,
+    "extratags": {
+        "wikidata": "Q285072",
+        "wikipedia": "en:Kajiado County"
+    },
+    "calculated_wikipedia": "en:Kajiado_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.78625503675998,
+            -2.12171705
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.786255037,
+            -2.12171705
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kajiado County",
+            "place_id": 285519126,
+            "osm_id": 3486020,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

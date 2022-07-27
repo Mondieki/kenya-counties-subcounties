@@ -1,0 +1,124 @@
+{
+    "place_id": 284354817,
+    "parent_place_id": 285205582,
+    "osm_type": "R",
+    "osm_id": 3495544,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kiambu",
+    "names": {
+        "alt_name:de": "Kiambu County",
+        "alt_name:en": "Kiambu County",
+        "alt_name:fr": "Comté de Kiambu",
+        "ISO3166-2": "KE-13",
+        "name": "Kiambu",
+        "name:ceb": "Kiambu",
+        "name:de": "Kiambu",
+        "name:en": "Kiambu",
+        "name:es": "Condado de Kiambu",
+        "name:fa": "شهرستان کیامبو",
+        "name:fi": "Kiambun piirikunta",
+        "name:fr": "Kiambu",
+        "name:id": "County Kiambu",
+        "name:it": "Contea di Kiambu",
+        "name:ja": "キアンブ",
+        "name:ko": "키암부현",
+        "name:nan": "Kiambu Kūn",
+        "name:nl": "Kiambu County",
+        "name:no": "Kiambu fylke",
+        "name:pl": "Kiambu",
+        "name:sv": "Kiambu",
+        "name:sw": "Kaunti ya Kiambu",
+        "name:ur": "کیامبو کاؤنٹی",
+        "name:vi": "Kiambu",
+        "name:zh": "基安布郡",
+        "name:zu": "Kiambu County"
+    },
+    "addresstags": {
+        "country": "KE"
+    },
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-18T12:17:25+00:00",
+    "importance": 0.4128303318151943,
+    "calculated_importance": 0.4128303318151943,
+    "extratags": {
+        "wikidata": "Q2575594",
+        "wikipedia": "en:Kiambu County"
+    },
+    "calculated_wikipedia": "en:Kiambu_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.815686702129064,
+            -1.03207695
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.815686702,
+            -1.03207695
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kiambu",
+            "place_id": 284354817,
+            "osm_id": 3495544,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Central Kenya",
+            "place_id": 285205582,
+            "osm_id": 9721572,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 4.736297269154817e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

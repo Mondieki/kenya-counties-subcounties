@@ -1,0 +1,111 @@
+{
+    "place_id": 285399759,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3338139,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Bomet",
+    "names": {
+        "ISO3166-2": "KE-02",
+        "name": "Bomet",
+        "name:ceb": "Bomet",
+        "name:de": "Bomet",
+        "name:en": "Bomet",
+        "name:es": "Bomet",
+        "name:fa": "شهرستان بومت",
+        "name:fr": "Bomet",
+        "name:id": "Bomet",
+        "name:it": "Bomet",
+        "name:ja": "ボメット",
+        "name:ko": "보메트현",
+        "name:nan": "Bomet Kūn",
+        "name:nl": "Bomet",
+        "name:no": "Bomet",
+        "name:pl": "Bomet",
+        "name:ru": "Бомет",
+        "name:sv": "Bomet",
+        "name:sw": "Bomet",
+        "name:uk": "Бомет",
+        "name:ur": "بومت کاؤنٹی",
+        "name:vi": "Bomet",
+        "name:zh": "博美特郡",
+        "name:zu": "Bomet",
+        "ref": "36"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-13T06:16:40+00:00",
+    "importance": 0.40358245491998124,
+    "calculated_importance": 0.40358245491998124,
+    "extratags": {
+        "admin_type:KE": "county",
+        "border_type": "county",
+        "land_area": "administrative",
+        "wikidata": "Q891952",
+        "wikipedia": "en:Bomet County"
+    },
+    "calculated_wikipedia": "en:Bomet_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.23963843035895,
+            -0.7196054000000001
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.23963843,
+            -0.7196054
+        ]
+    },
+    "address": [
+        {
+            "localname": "Bomet",
+            "place_id": 285399759,
+            "osm_id": 3338139,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

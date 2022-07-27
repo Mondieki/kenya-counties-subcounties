@@ -1,0 +1,128 @@
+{
+    "place_id": 297963762,
+    "parent_place_id": 299279293,
+    "osm_type": "R",
+    "osm_id": 3495554,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Mombasa County",
+    "names": {
+        "alt_name:zh": "蒙巴萨县",
+        "ISO3166-2": "KE-28",
+        "name": "Mombasa",
+        "name:ar": "مومباسا",
+        "name:ceb": "Mombasa",
+        "name:de": "Mombasa County",
+        "name:en": "Mombasa County",
+        "name:es": "Condado de Mombasa",
+        "name:fa": "شهرستان مومباسا",
+        "name:fi": "Mombasan piirikunta",
+        "name:fr": "Comté de Mombasa",
+        "name:id": "County Mombasa",
+        "name:it": "Contea di Mombasa",
+        "name:ja": "モンバサ",
+        "name:ko": "몸바사현",
+        "name:nan": "Mombasa Kūn",
+        "name:nl": "Mombassa",
+        "name:no": "Mombasa fylke",
+        "name:pl": "Mombasa",
+        "name:pt": "Mombaça",
+        "name:sw": "Kaunti ya Mombasa",
+        "name:ur": "ممباسا کاؤنٹی",
+        "name:vi": "Mombasa",
+        "name:zh": "蒙巴萨",
+        "name:zu": "Mombasa County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.40549503827050787,
+    "calculated_importance": 0.40549503827050787,
+    "extratags": {
+        "CONST_CODE": "3",
+        "CONSTITUEN": "KISAUNI",
+        "COUNTY_COD": "1",
+        "COUNTY_NAM": "MOMBASA",
+        "OBJECTID": "2",
+        "Shape_Area": "0.02332510618",
+        "Shape_Leng": "0.88558616055",
+        "wikidata": "Q1112885",
+        "wikipedia": "en:Mombasa County"
+    },
+    "calculated_wikipedia": "en:Mombasa_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            39.64842393685704,
+            -4.0390146
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.648423937,
+            -4.0390146
+        ]
+    },
+    "address": [
+        {
+            "localname": "Mombasa County",
+            "place_id": 297963762,
+            "osm_id": 3495554,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Coastal Kenya",
+            "place_id": 299279293,
+            "osm_id": 9721636,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.6424538769414343e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

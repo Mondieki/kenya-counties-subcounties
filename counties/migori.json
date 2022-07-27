@@ -1,0 +1,123 @@
+{
+    "place_id": 297859219,
+    "parent_place_id": 299148127,
+    "osm_type": "R",
+    "osm_id": 3486018,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Migori County",
+    "names": {
+        "ISO3166-2": "KE-27",
+        "name": "Migori",
+        "name:ceb": "Migori",
+        "name:de": "Migori County",
+        "name:en": "Migori County",
+        "name:es": "Condado de Migori",
+        "name:fa": "شهرستان میگوری",
+        "name:fr": "Comté de Migori",
+        "name:id": "County Migori",
+        "name:it": "Contea di Migori",
+        "name:ja": "ミゴリ",
+        "name:ko": "미고리현",
+        "name:nan": "Migori Kūn",
+        "name:nl": "Migori County",
+        "name:no": "Migori fylke",
+        "name:pl": "Migori",
+        "name:pt": "Migori",
+        "name:sv": "Migori",
+        "name:sw": "Kaunti ya Migori",
+        "name:ur": "میگوری کاؤنٹی",
+        "name:vi": "Migori",
+        "name:zh": "米戈利郡",
+        "name:zu": "Migori County",
+        "ref": "44"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0,
+    "calculated_importance": 0.55,
+    "extratags": {
+        "admin_type:KE": "county",
+        "border_type": "county",
+        "land_area": "administrative",
+        "wikidata": "Q429955",
+        "wikipedia": "en:Migori County"
+    },
+    "calculated_wikipedia": null,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.30964322421073,
+            -1.0211616000000001
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.309643224,
+            -1.0211616
+        ]
+    },
+    "address": [
+        {
+            "localname": "Migori County",
+            "place_id": 297859219,
+            "osm_id": 3486018,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 299148127,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 5.131994495363002e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

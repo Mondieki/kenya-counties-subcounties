@@ -1,0 +1,129 @@
+{
+    "place_id": 297933433,
+    "parent_place_id": 298557067,
+    "osm_type": "R",
+    "osm_id": 3495558,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nyeri",
+    "names": {
+        "ISO3166-2": "KE-36",
+        "name": "Nyeri",
+        "name:ceb": "Nyeri",
+        "name:de": "Nyeri",
+        "name:en": "Nyeri",
+        "name:es": "Nyeri",
+        "name:fa": "شهرستان نیری",
+        "name:fi": "Nyerin",
+        "name:fr": "Nyeri",
+        "name:id": "Nyeri",
+        "name:it": "Nyeri",
+        "name:ja": "ニエリ",
+        "name:ko": "니에리현",
+        "name:nan": "Nyeri",
+        "name:nl": "Nyeri",
+        "name:no": "Nyeri",
+        "name:pl": "Nyeri",
+        "name:pt": "Nieri",
+        "name:ru": "Ньери",
+        "name:sv": "Nyeri",
+        "name:sw": "Nyeri",
+        "name:ur": "نیئری کاؤنٹی",
+        "name:vi": "Nyeri",
+        "name:zh": "涅里郡",
+        "name:zu": "Nyeri"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.41113533400689056,
+    "calculated_importance": 0.41113533400689056,
+    "extratags": {
+        "CONST_CODE": "95",
+        "CONSTITUEN": "KIENI",
+        "COUNTY_COD": "19",
+        "COUNTY_NAM": "NYERI",
+        "ID_": "3111",
+        "OBJECTID": "19",
+        "Shape_Area": "0.27090667838",
+        "Shape_Leng": "2.98028956743",
+        "wikidata": "Q749665",
+        "wikipedia": "en:Nyeri County"
+    },
+    "calculated_wikipedia": "en:Nyeri_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.92956152367317,
+            -0.32121045000000004
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.929561524,
+            -0.32121045
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nyeri",
+            "place_id": 297933433,
+            "osm_id": 3495558,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Central Kenya",
+            "place_id": 298557067,
+            "osm_id": 9721572,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 2.074539882120347e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "place_id": 284331506,
+    "parent_place_id": 285085359,
+    "osm_type": "R",
+    "osm_id": 3338140,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kisii County",
+    "names": {
+        "ISO3166-2": "KE-16",
+        "name": "Kisii",
+        "name:ceb": "Kisii",
+        "name:de": "Kisii County",
+        "name:en": "Kisii County",
+        "name:es": "Condado de Kisii",
+        "name:fa": "شهرستان کیسی",
+        "name:fi": "Kisiin piirikunta",
+        "name:fr": "Comté de Kisii",
+        "name:id": "County Kisii",
+        "name:it": "Contea di Kisii",
+        "name:ja": "キシイ",
+        "name:ko": "키시현",
+        "name:nan": "Kisii Kūn",
+        "name:nl": "Kisii County",
+        "name:no": "Kisii fylke",
+        "name:pl": "Kisii",
+        "name:pt": "Quisi",
+        "name:sv": "Kisii",
+        "name:sw": "Kaunti ya Kisii",
+        "name:ur": "کیسیی کاؤنٹی",
+        "name:vi": "Kisii",
+        "name:zh": "基西郡",
+        "name:zu": "Kisii County",
+        "ref": "45"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-04-18T13:13:28+00:00",
+    "importance": 0,
+    "calculated_importance": 0.55,
+    "extratags": {
+        "admin_type:KE": "county",
+        "border_type": "county",
+        "land_area": "administrative",
+        "wikidata": "Q1743730",
+        "wikipedia": "en:Kisii County"
+    },
+    "calculated_wikipedia": null,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.75398551201732,
+            -0.73894255
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.753985512,
+            -0.73894255
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kisii County",
+            "place_id": 284331506,
+            "osm_id": 3338140,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 285085359,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 0.33190755695044566,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

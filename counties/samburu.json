@@ -1,0 +1,114 @@
+{
+    "place_id": 298419843,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495559,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Samburu",
+    "names": {
+        "ISO3166-2": "KE-37",
+        "name": "Samburu",
+        "name:ceb": "Samburu",
+        "name:de": "Samburu",
+        "name:en": "Samburu",
+        "name:eo": "Distrikto",
+        "name:es": "Samburu",
+        "name:fa": "شهرستان سامبورو",
+        "name:fr": "Samburu",
+        "name:id": "Samburu",
+        "name:it": "Samburu",
+        "name:ja": "サンブル",
+        "name:ko": "삼부루현",
+        "name:nan": "Samburu",
+        "name:nl": "Samburu",
+        "name:no": "Samburu",
+        "name:pl": "Samburu",
+        "name:sv": "Samburu",
+        "name:sw": "Samburu",
+        "name:ur": "سامبورو",
+        "name:vi": "Samburu",
+        "name:zh": "桑布盧郡",
+        "name:zu": "Samburu"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.4158699476219386,
+    "calculated_importance": 0.4158699476219386,
+    "extratags": {
+        "CONST_CODE": "134",
+        "CONSTITUEN": "SAMBURU NORTH",
+        "COUNTY_COD": "25",
+        "COUNTY_NAM": "SAMBURU",
+        "ID_": "401",
+        "OBJECTID": "25",
+        "Shape_Area": "1.70766586839",
+        "Shape_Leng": "7.83144153059",
+        "wikidata": "Q2096419",
+        "wikipedia": "en:Samburu County"
+    },
+    "calculated_wikipedia": "en:Samburu_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.94216599162042,
+            1.5394463
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.942165992,
+            1.5394463
+        ]
+    },
+    "address": [
+        {
+            "localname": "Samburu",
+            "place_id": 298419843,
+            "osm_id": 3495559,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

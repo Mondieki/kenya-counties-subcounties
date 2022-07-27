@@ -1,0 +1,115 @@
+{
+    "place_id": 298044244,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495565,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Uasin Gishu County",
+    "names": {
+        "ISO3166-2": "KE-44",
+        "name": "Uasin Gishu",
+        "name:ceb": "Uasin Gishu",
+        "name:de": "Uasin Gishu County",
+        "name:en": "Uasin Gishu County",
+        "name:es": "Condado de Uasin Gishu",
+        "name:eu": "Uasin Gishu konderria",
+        "name:fa": "شهرستان یوسین گیشو",
+        "name:fr": "Comté de Uasin Gishu",
+        "name:id": "County Uasin Gishu",
+        "name:it": "Contea di Uasin Gishu",
+        "name:ja": "ウアシン・ギシュ",
+        "name:ko": "우아신기슈현",
+        "name:nan": "Uasin Gishu Kūn",
+        "name:nl": "Uasin Gishu County",
+        "name:no": "Uasin Gishu fylke",
+        "name:pl": "Uasin Gishu",
+        "name:ru": "Уасин-Гишу",
+        "name:sv": "Uasin Gishu",
+        "name:sw": "Kaunti ya Uasin Gishu",
+        "name:ur": "یواسین گیشو کاؤنٹی",
+        "name:vi": "Uasin Gishu",
+        "name:zh": "瓦辛基蘇郡",
+        "name:zu": "Uasin Gishu County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.41267815297399674,
+    "calculated_importance": 0.41267815297399674,
+    "extratags": {
+        "CONST_CODE": "144",
+        "CONSTITUEN": "AINABKOI",
+        "COUNTY_COD": "27",
+        "COUNTY_NAM": "UASIN GISHU",
+        "ID_": "1723",
+        "OBJECTID": "26",
+        "Shape_Area": "0.27589006735",
+        "Shape_Leng": "3.79630380519",
+        "wikidata": "Q1121429",
+        "wikipedia": "en:Uasin Gishu County"
+    },
+    "calculated_wikipedia": "en:Uasin_Gishu_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.30505973699228,
+            0.4771938
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.305059737,
+            0.4771938
+        ]
+    },
+    "address": [
+        {
+            "localname": "Uasin Gishu County",
+            "place_id": 298044244,
+            "osm_id": 3495565,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

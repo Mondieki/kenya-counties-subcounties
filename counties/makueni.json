@@ -1,0 +1,126 @@
+{
+    "place_id": 297949584,
+    "parent_place_id": 298569054,
+    "osm_type": "R",
+    "osm_id": 3492708,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Makueni",
+    "names": {
+        "ISO3166-2": "KE-23",
+        "name": "Makueni",
+        "name:ceb": "Makueni",
+        "name:de": "Makueni",
+        "name:en": "Makueni",
+        "name:es": "Makueni",
+        "name:fa": "شهرستان ماکونی",
+        "name:fr": "Makueni",
+        "name:id": "Makueni",
+        "name:it": "Makueni",
+        "name:ja": "マクエニ",
+        "name:ko": "마쿠에니현",
+        "name:nan": "Makueni",
+        "name:nl": "Makueni",
+        "name:no": "Makueni",
+        "name:pl": "Makueni",
+        "name:sv": "Makueni",
+        "name:sw": "Makueni",
+        "name:ur": "ماکوینی کاؤنٹی",
+        "name:vi": "Makueni",
+        "name:zh": "馬瓜尼郡",
+        "name:zu": "Makueni"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.4093923993683224,
+    "calculated_importance": 0.4093923993683224,
+    "extratags": {
+        "CONST_CODE": "87",
+        "CONSTITUEN": "KIBWEZI WEST",
+        "COUNTY_COD": "17",
+        "COUNTY_NAM": "MAKUENI",
+        "ID_": "6213",
+        "OBJECTID": "34",
+        "Shape_Area": "0.66459009423",
+        "Shape_Leng": "5.74677892114",
+        "wikidata": "Q473717",
+        "wikipedia": "en:Makueni County"
+    },
+    "calculated_wikipedia": "en:Makueni_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.87717148162716,
+            -2.25709305
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.877171482,
+            -2.25709305
+        ]
+    },
+    "address": [
+        {
+            "localname": "Makueni",
+            "place_id": 297949584,
+            "osm_id": 3492708,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 298569054,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 3.511554923899197e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

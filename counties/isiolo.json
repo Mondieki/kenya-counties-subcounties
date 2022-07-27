@@ -1,0 +1,122 @@
+{
+    "place_id": 285505421,
+    "parent_place_id": 285443095,
+    "osm_type": "R",
+    "osm_id": 3495542,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Isiolo",
+    "names": {
+        "ISO3166-2": "KE-09",
+        "name": "Isiolo",
+        "name:ceb": "Isiolo",
+        "name:de": "Isiolo",
+        "name:en": "Isiolo",
+        "name:es": "Isiolo",
+        "name:fa": "شهرستان ایسیولو",
+        "name:fr": "Isiolo",
+        "name:id": "Isiolo",
+        "name:it": "Isiolo",
+        "name:ja": "イシオロ",
+        "name:ko": "이시올로현",
+        "name:nan": "Isiolo",
+        "name:nl": "Isiolo",
+        "name:no": "Isiolo",
+        "name:pl": "Isiolo",
+        "name:ru": "Исиоло",
+        "name:sv": "Isiolo",
+        "name:sw": "Isiolo",
+        "name:ur": "اسیولو کاؤنٹی",
+        "name:vi": "Isiolo",
+        "name:zh": "伊希約洛郡",
+        "name:zu": "Isiolo"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-19T11:36:12+00:00",
+    "importance": 0.41343531728023775,
+    "calculated_importance": 0.41343531728023775,
+    "extratags": {
+        "CONST_CODE": "49",
+        "CONSTITUEN": "ISIOLO NORTH",
+        "COUNTY_COD": "11",
+        "wikidata": "Q1499046",
+        "wikipedia": "en:Isiolo County"
+    },
+    "calculated_wikipedia": "en:Isiolo_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            38.74789538540634,
+            1.0060600499999999
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.747895385,
+            1.00606005
+        ]
+    },
+    "address": [
+        {
+            "localname": "Isiolo",
+            "place_id": 285505421,
+            "osm_id": 3495542,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 285443095,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 2.256710836537298e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

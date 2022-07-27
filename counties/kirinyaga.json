@@ -1,0 +1,132 @@
+{
+    "place_id": 285133059,
+    "parent_place_id": 285205582,
+    "osm_type": "R",
+    "osm_id": 3495546,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kirinyaga County",
+    "names": {
+        "alt_name:fr": "Comté de Kirinyaga",
+        "ISO3166-2": "KE-15",
+        "name": "Kirinyaga",
+        "name:ceb": "Kirinyaga",
+        "name:de": "Kirinyaga",
+        "name:en": "Kirinyaga County",
+        "name:es": "Condado de Kirinyaga",
+        "name:fa": "شهرستان کیرینیاگا",
+        "name:fi": "Kirinyagan piirikunta",
+        "name:fr": "Kirinyaga",
+        "name:id": "County Kirinyaga",
+        "name:it": "Contea di Kirinyaga",
+        "name:ja": "キリニャガ",
+        "name:ko": "키리니아가현",
+        "name:nan": "Kirinyaga Kūn",
+        "name:nl": "Kirinyaga County",
+        "name:no": "Kirinyaga fylke",
+        "name:pl": "Kirinyaga",
+        "name:pt": "Quiriniaga",
+        "name:sv": "Kirinyaga",
+        "name:sw": "Kaunti ya Kirinyaga",
+        "name:ur": "کیرینیاگا کاؤنٹی",
+        "name:vi": "Kirinyaga",
+        "name:zh": "基里尼亞加郡",
+        "name:zu": "Kirinyaga County"
+    },
+    "addresstags": {
+        "continent": "Africa",
+        "country": "KE"
+    },
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T13:14:43+00:00",
+    "importance": 0.3965765408267368,
+    "calculated_importance": 0.3965765408267368,
+    "extratags": {
+        "CONST_CODE": "101",
+        "CONSTITUEN": "GICHUGU",
+        "COUNTY_COD": "20",
+        "COUNTY_NAM": "KIRINYAGA",
+        "ID_": "3965",
+        "OBJECTID": "20",
+        "Shape_Area": "0.11984024832",
+        "Shape_Leng": "1.79453434734",
+        "wikidata": "Q2230311",
+        "wikipedia": "en:Kirinyaga County"
+    },
+    "calculated_wikipedia": "en:Kirinyaga_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.30276810393241,
+            -0.46887805
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.302768104,
+            -0.46887805
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kirinyaga County",
+            "place_id": 285133059,
+            "osm_id": 3495546,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Central Kenya",
+            "place_id": 285205582,
+            "osm_id": 9721572,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 3.524968818021587e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

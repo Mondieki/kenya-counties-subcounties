@@ -1,0 +1,119 @@
+{
+    "place_id": 284371192,
+    "parent_place_id": 285792318,
+    "osm_type": "R",
+    "osm_id": 3495538,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Bungoma County",
+    "names": {
+        "ISO3166-2": "KE-03",
+        "name": "Bungoma",
+        "name:de": "Bungoma County",
+        "name:en": "Bungoma County",
+        "name:es": "Condado de Bungoma",
+        "name:fa": "شهرستان بونگوما",
+        "name:fi": "Bungoman piirikunta",
+        "name:fr": "Comté de Bungoma",
+        "name:id": "County Bungoma",
+        "name:it": "Contea di Bungoma",
+        "name:ja": "ブンゴマ",
+        "name:ko": "붕고마현",
+        "name:nan": "Bungoma Kūn",
+        "name:nl": "Bungoma County",
+        "name:no": "Bungoma fylke",
+        "name:pl": "Bungoma",
+        "name:ru": "Бунгома",
+        "name:sw": "Kaunti ya Bungoma",
+        "name:uk": "Бунгома",
+        "name:ur": "بونگوما کاؤنٹی",
+        "name:vi": "Bungoma",
+        "name:zh": "邦戈馬郡",
+        "name:zu": "Bungoma County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T08:57:20+00:00",
+    "importance": 0.40651377880971323,
+    "calculated_importance": 0.40651377880971323,
+    "extratags": {
+        "wikidata": "Q2928204",
+        "wikipedia": "en:Bungoma County"
+    },
+    "calculated_wikipedia": "en:Bungoma_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.71916810731902,
+            0.78292445
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.719168107,
+            0.78292445
+        ]
+    },
+    "address": [
+        {
+            "localname": "Bungoma County",
+            "place_id": 284371192,
+            "osm_id": 3495538,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "West Kenya",
+            "place_id": 285792318,
+            "osm_id": 9721837,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 3.223427127100647e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

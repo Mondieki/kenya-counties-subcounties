@@ -1,0 +1,114 @@
+{
+    "place_id": 298499685,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3495556,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nandi County",
+    "names": {
+        "ISO3166-2": "KE-32",
+        "name": "Nandi",
+        "name:ceb": "Nandi North District",
+        "name:de": "Nandi County",
+        "name:en": "Nandi County",
+        "name:es": "Condado de Nandi",
+        "name:fa": "شهرستان ناندی",
+        "name:fi": "Nandin piirikunta",
+        "name:fr": "Comté de Nandi",
+        "name:id": "County Nandi",
+        "name:it": "Contea di Nandi",
+        "name:ja": "ナンディ (カウンティ)",
+        "name:ko": "난디현",
+        "name:nan": "Nandi Kūn",
+        "name:nl": "Nandi County",
+        "name:no": "Nandi fylke",
+        "name:pl": "Nandi (hrabstwo)",
+        "name:sv": "Nandi (distrikt)",
+        "name:sw": "Kaunti ya Nandi",
+        "name:ur": "ناندی کاؤنٹی",
+        "name:vi": "Nandi (hạt)",
+        "name:zh": "南迪郡",
+        "name:zu": "Nandi County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.4095529004990606,
+    "calculated_importance": 0.4095529004990606,
+    "extratags": {
+        "CONST_CODE": "156",
+        "CONSTITUEN": "MOSOP",
+        "COUNTY_COD": "29",
+        "COUNTY_NAM": "NANDI",
+        "ID_": "1582",
+        "OBJECTID": "28",
+        "Shape_Area": "0.23023133721",
+        "Shape_Leng": "3.05726592217",
+        "wikidata": "Q1964569",
+        "wikipedia": "en:Nandi County"
+    },
+    "calculated_wikipedia": "en:Nandi_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.124492921854724,
+            0.22539325
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.124492922,
+            0.22539325
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nandi County",
+            "place_id": 298499685,
+            "osm_id": 3495556,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "place_id": 285529382,
+    "parent_place_id": 285741286,
+    "osm_type": "R",
+    "osm_id": 3495550,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Lamu",
+    "names": {
+        "name": "Lamu"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2021-12-14T22:30:02+00:00",
+    "importance": 0.3395568222611624,
+    "calculated_importance": 0.3395568222611624,
+    "extratags": {
+        "CONST_CODE": "22",
+        "CONSTITUEN": "LAMU WEST",
+        "COUNTY_COD": "5",
+        "COUNTY_NAM": "LAMU",
+        "ID_": "6276",
+        "ISO3166-2": "KE-21",
+        "OBJECTID": "6",
+        "Shape_Area": "0.74374311266",
+        "Shape_Leng": "3.74468915941",
+        "wikidata": "Q1951652",
+        "wikipedia": "de:Lamu"
+    },
+    "calculated_wikipedia": "de:Lamu",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            40.72809915263692,
+            -2.0645208999999998
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            40.728099153,
+            -2.0645209
+        ]
+    },
+    "address": [
+        {
+            "localname": "Lamu",
+            "place_id": 285529382,
+            "osm_id": 3495550,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Coastal Kenya",
+            "place_id": 285741286,
+            "osm_id": 9721636,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.004610649839588,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

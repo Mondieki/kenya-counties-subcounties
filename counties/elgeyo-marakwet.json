@@ -1,0 +1,102 @@
+{
+    "place_id": 285330507,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 11981582,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Elgeyo-Marakwet County",
+    "names": {
+        "ISO3166-2": "KE-05",
+        "name": "Elgeyo-Marakwet",
+        "name:de": "Elgeyo-Marakwet County",
+        "name:en": "Elgeyo-Marakwet County",
+        "name:es": "Condado de Elgeyo-Marakwet",
+        "name:fa": "شهرستان الگیو-ماراک‌وت",
+        "name:id": "County Elgeyo-Marakwet",
+        "name:it": "Contea di Elgeyo-Marakwet",
+        "name:ja": "エルゲーヨ＝マラクウェト",
+        "name:ko": "엘게요마라퀘트현",
+        "name:nan": "Elgeyo-Marakwet Kūn",
+        "name:nl": "Elgeyo-Marakwet County",
+        "name:no": "Elgeyo-Marakwet fylke",
+        "name:pl": "Elgeyo-Marakwet",
+        "name:ru": "Элгейо-Мараквет",
+        "name:sw": "Kaunti ya Elgeyo-Marakwet",
+        "name:ur": "ایلگیو-ماراکوت کاؤنٹی",
+        "name:zh": "埃爾格約-馬拉奎特郡",
+        "name:zu": "Elgeyo-Marakwet County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-17T13:16:20+00:00",
+    "importance": 0.39813941124028646,
+    "calculated_importance": 0.39813941124028646,
+    "extratags": {
+        "wikidata": "Q15216433",
+        "wikipedia": "en:Elgeyo-Marakwet County"
+    },
+    "calculated_wikipedia": "en:Elgeyo-Marakwet_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            35.561808313539316,
+            0.7422191499999999
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.561808314,
+            0.74221915
+        ]
+    },
+    "address": [
+        {
+            "localname": "Elgeyo-Marakwet County",
+            "place_id": 285330507,
+            "osm_id": 11981582,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

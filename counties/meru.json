@@ -1,0 +1,122 @@
+{
+    "place_id": 298391558,
+    "parent_place_id": 298569054,
+    "osm_type": "R",
+    "osm_id": 3495553,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Meru County",
+    "names": {
+        "ISO3166-2": "KE-26",
+        "name": "Meru",
+        "name:ceb": "Meru",
+        "name:de": "Meru County",
+        "name:en": "Meru County",
+        "name:es": "Condado de Meru",
+        "name:fa": "شهرستان مرو",
+        "name:fi": "Merun piirikunta",
+        "name:fr": "Comté de Meru",
+        "name:id": "County Meru",
+        "name:it": "Contea di Meru",
+        "name:ja": "メルー",
+        "name:ko": "메루현",
+        "name:nan": "Meru Kūn",
+        "name:nl": "Meru County",
+        "name:no": "Meru fylke",
+        "name:pl": "Meru",
+        "name:sv": "Meru",
+        "name:sw": "Kaunti ya Meru",
+        "name:ur": "میرو کاؤنٹی",
+        "name:vi": "Meru",
+        "name:zh": "梅魯郡",
+        "name:zu": "Meru County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.3967740807374235,
+    "calculated_importance": 0.3967740807374235,
+    "extratags": {
+        "CONST_CODE": "56",
+        "CONSTITUEN": "NORTH IMENTI",
+        "COUNTY_COD": "12",
+        "wikidata": "Q15045704",
+        "wikipedia": "en:Meru County"
+    },
+    "calculated_wikipedia": "en:Meru_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.77726237163694,
+            0.2254509
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.777262372,
+            0.2254509
+        ]
+    },
+    "address": [
+        {
+            "localname": "Meru County",
+            "place_id": 298391558,
+            "osm_id": 3495553,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 298569054,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.2608997895576845e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

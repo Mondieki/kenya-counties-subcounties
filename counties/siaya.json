@@ -1,0 +1,128 @@
+{
+    "place_id": 298422135,
+    "parent_place_id": 299148127,
+    "osm_type": "R",
+    "osm_id": 3486291,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Siaya County",
+    "names": {
+        "ISO3166-2": "KE-38",
+        "name": "Siaya",
+        "name:ceb": "Siaya",
+        "name:de": "Siaya County",
+        "name:en": "Siaya County",
+        "name:es": "Condado de Siaya",
+        "name:fa": "شهرستان سیایا",
+        "name:fr": "Comté de Siaya",
+        "name:id": "County Siaya",
+        "name:it": "Contea di Siaya",
+        "name:ja": "シアヤ",
+        "name:ko": "시아야현",
+        "name:nan": "Siaya Kūn",
+        "name:nl": "Siaya County",
+        "name:no": "Siaya fylke",
+        "name:pl": "Siaya",
+        "name:pt": "Siaia",
+        "name:sv": "Siaya",
+        "name:sw": "Kaunti ya Siaya",
+        "name:ur": "سیایا کاؤنٹی",
+        "name:vi": "Siaya",
+        "name:zh": "夏亞郡",
+        "name:zu": "Siaya County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.40668194371451316,
+    "calculated_importance": 0.40668194371451316,
+    "extratags": {
+        "CONST_CODE": "232",
+        "CONSTITUEN": "UGENYA",
+        "COUNTY_COD": "41",
+        "COUNTY_NAM": "SIAYA",
+        "id": "2082",
+        "OBJECTID": "40",
+        "population:2010": "842304",
+        "Shape_Area": "0.28583735592",
+        "Shape_Leng": "2.80244601296",
+        "wikidata": "Q3482913",
+        "wikipedia": "en:Siaya County"
+    },
+    "calculated_wikipedia": "en:Siaya_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.200135009996295,
+            -0.06040135
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.20013501,
+            -0.06040135
+        ]
+    },
+    "address": [
+        {
+            "localname": "Siaya County",
+            "place_id": 298422135,
+            "osm_id": 3486291,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 299148127,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 5.595409181195296e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

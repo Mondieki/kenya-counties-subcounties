@@ -1,0 +1,126 @@
+{
+    "place_id": 297968429,
+    "parent_place_id": 298569054,
+    "osm_type": "R",
+    "osm_id": 3495562,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Tharaka-Nithi",
+    "names": {
+        "ISO3166-2": "KE-41",
+        "name": "Tharaka-Nithi",
+        "name:ceb": "Tharaka-Nithi",
+        "name:de": "Tharaka-Nithi",
+        "name:en": "Tharaka-Nithi",
+        "name:es": "Tharaka-Nithi",
+        "name:fa": "شهرستان تاراکا-نیتی",
+        "name:fr": "Tharaka-Nithi",
+        "name:id": "Tharaka-Nithi",
+        "name:it": "Tharaka-Nithi",
+        "name:ja": "タラカ＝ニシ",
+        "name:ko": "타라카니티현",
+        "name:nan": "Tharaka-Nithi",
+        "name:nl": "Tharaka-Nithi",
+        "name:no": "Tharaka-Nithi",
+        "name:pl": "Tharaka-Nithi",
+        "name:sv": "Tharaka-Nithi",
+        "name:sw": "Tharaka-Nithi",
+        "name:ur": "تھاراکا-نیتھی کاؤنٹی",
+        "name:vi": "Tharaka-Nithi",
+        "name:zh": "薩拉卡尼蒂郡",
+        "name:zu": "Tharaka-Nithi"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.3953778178008733,
+    "calculated_importance": 0.3953778178008733,
+    "extratags": {
+        "CONST_CODE": "60",
+        "CONSTITUEN": "MAARA",
+        "COUNTY_COD": "13",
+        "COUNTY_NAM": "THARAKA - NITHI",
+        "ID_": "3303",
+        "OBJECTID": "14",
+        "Shape_Area": "0.20962152815",
+        "Shape_Leng": "2.9883739317",
+        "wikidata": "Q2189432",
+        "wikipedia": "en:Tharaka-Nithi County"
+    },
+    "calculated_wikipedia": "en:Tharaka-Nithi_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.96140495608314,
+            -0.19370805000000002
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.961404956,
+            -0.19370805
+        ]
+    },
+    "address": [
+        {
+            "localname": "Tharaka-Nithi",
+            "place_id": 297968429,
+            "osm_id": 3495562,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 298569054,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.514813495396843e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "place_id": 298534815,
+    "parent_place_id": 298472340,
+    "osm_type": "R",
+    "osm_id": 3486322,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Vihiga County",
+    "names": {
+        "ISO3166-2": "KE-45",
+        "name": "Vihiga",
+        "name:ceb": "Vihiga",
+        "name:de": "Vihiga County",
+        "name:en": "Vihiga County",
+        "name:es": "Condado de Vihiga",
+        "name:fa": "شهرستان ویهیگا",
+        "name:fr": "Comté de Vihiga",
+        "name:id": "County Vihiga",
+        "name:it": "Contea di Vihiga",
+        "name:ja": "ヴィヒガ",
+        "name:ko": "비히가현",
+        "name:nan": "Vihiga Kūn",
+        "name:nl": "Vihiga County",
+        "name:no": "Vihiga fylke",
+        "name:pl": "Vihiga",
+        "name:ru": "Вихига",
+        "name:sv": "Vihiga",
+        "name:sw": "Kaunti ya Vihiga",
+        "name:ur": "ویہیگا کاؤنٹی",
+        "name:vi": "Vihiga",
+        "name:zh": "韋希加郡",
+        "name:zu": "Vihiga County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.39567969138088827,
+    "calculated_importance": 0.39567969138088827,
+    "extratags": {
+        "CONST_CODE": "213",
+        "CONSTITUEN": "HAMISI",
+        "COUNTY_COD": "38",
+        "COUNTY_NAM": "VIHIGA",
+        "ID_": "2515",
+        "OBJECTID": "37",
+        "Shape_Area": "0.04549045865",
+        "Shape_Leng": "1.24925510587",
+        "wikidata": "Q1313202",
+        "wikipedia": "en:Vihiga County"
+    },
+    "calculated_wikipedia": "en:Vihiga_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.708033906814826,
+            0.0831199
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.708033907,
+            0.0831199
+        ]
+    },
+    "address": [
+        {
+            "localname": "Vihiga County",
+            "place_id": 298534815,
+            "osm_id": 3486322,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "West Kenya",
+            "place_id": 298472340,
+            "osm_id": 9721837,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 5.164080782739334e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

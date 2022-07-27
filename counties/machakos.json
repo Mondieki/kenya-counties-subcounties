@@ -1,0 +1,127 @@
+{
+    "place_id": 298306944,
+    "parent_place_id": 298569054,
+    "osm_type": "R",
+    "osm_id": 3492707,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Machakos County",
+    "names": {
+        "ISO3166-2": "KE-22",
+        "name": "Machakos",
+        "name:ceb": "Machakos",
+        "name:de": "Machakos County",
+        "name:en": "Machakos County",
+        "name:es": "Condado de Machakos",
+        "name:fa": "شهرستان ماچاکوس",
+        "name:fi": "Machakosin piirikunta",
+        "name:fr": "Comté de Machakos",
+        "name:id": "County Machakos",
+        "name:it": "Contea di Machakos",
+        "name:ja": "マチャコス",
+        "name:ko": "마차코스현",
+        "name:nan": "Machakos Kūn",
+        "name:nl": "Machakos County",
+        "name:no": "Machakos fylke",
+        "name:pl": "Machakos",
+        "name:sv": "Machakos",
+        "name:sw": "Kaunti ya Machakos",
+        "name:ur": "ماچاکوس کاؤنٹی",
+        "name:vi": "Machakos",
+        "name:zh": "馬查科斯郡",
+        "name:zu": "Machakos County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.41343531728023775,
+    "calculated_importance": 0.41343531728023775,
+    "extratags": {
+        "CONST_CODE": "76",
+        "CONSTITUEN": "YATTA",
+        "COUNTY_COD": "16",
+        "COUNTY_NAM": "MACHAKOS",
+        "ID_": "5438",
+        "OBJECTID": "17",
+        "Shape_Area": "0.49098460969",
+        "Shape_Leng": "5.69857534187",
+        "wikidata": "Q1882639",
+        "wikipedia": "en:Machakos County"
+    },
+    "calculated_wikipedia": "en:Machakos_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            37.39526976452546,
+            -1.27900465
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            37.395269765,
+            -1.27900465
+        ]
+    },
+    "address": [
+        {
+            "localname": "Machakos County",
+            "place_id": 298306944,
+            "osm_id": 3492707,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "East Kenya",
+            "place_id": 298569054,
+            "osm_id": 9724277,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 2.738247767577826e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

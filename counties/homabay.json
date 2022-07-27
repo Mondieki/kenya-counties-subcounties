@@ -1,0 +1,123 @@
+{
+    "place_id": 285451112,
+    "parent_place_id": 285085359,
+    "osm_type": "R",
+    "osm_id": 3486017,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Homa Bay County",
+    "names": {
+        "ISO3166-2": "KE-08",
+        "name": "Homa Bay",
+        "name:ceb": "Homa Bay",
+        "name:de": "Homa Bay County",
+        "name:en": "Homa Bay County",
+        "name:es": "Condado de Homa Bay",
+        "name:fa": "شهرستان خلیج هوما",
+        "name:fr": "Comté de Homa Bay",
+        "name:id": "County Homa Bay",
+        "name:it": "Contea di Homa Bay",
+        "name:ja": "ホマ・ベイ",
+        "name:ko": "호마베이현",
+        "name:nan": "Homa Bay Kūn",
+        "name:nl": "Homa Bay County",
+        "name:no": "Homa Bay fylke",
+        "name:pl": "Homa Bay",
+        "name:ru": "Хома Бэй",
+        "name:sv": "Homa Bay",
+        "name:sw": "Kaunti ya Homa Bay",
+        "name:ur": "ہوما بے کاؤنٹی",
+        "name:vi": "Homa Bay",
+        "name:zh": "霍馬灣郡",
+        "name:zu": "Homa Bay County",
+        "ref": "43"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-23T12:54:14+00:00",
+    "importance": 0.41336001806577366,
+    "calculated_importance": 0.41336001806577366,
+    "extratags": {
+        "admin_type:KE": "county",
+        "border_type": "county",
+        "land_area": "administrative",
+        "wikidata": "Q1625834",
+        "wikipedia": "en:Homa Bay County"
+    },
+    "calculated_wikipedia": "en:Homa_Bay_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.31878185590796,
+            -0.56396015
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.318781856,
+            -0.56396015
+        ]
+    },
+    "address": [
+        {
+            "localname": "Homa Bay County",
+            "place_id": 285451112,
+            "osm_id": 3486017,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 285085359,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.7116526690402288e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

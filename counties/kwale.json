@@ -1,0 +1,125 @@
+{
+    "place_id": 285171424,
+    "parent_place_id": 285741286,
+    "osm_type": "R",
+    "osm_id": 3495548,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Kwale",
+    "names": {
+        "ISO3166-2": "KE-19",
+        "name": "Kwale",
+        "name:ceb": "Kwale",
+        "name:de": "Kwale",
+        "name:en": "Kwale",
+        "name:es": "Kwale",
+        "name:fr": "Kwale",
+        "name:id": "Kwale",
+        "name:it": "Kwale",
+        "name:ja": "クワレ",
+        "name:ko": "콸레현",
+        "name:nan": "Kwale Kūn",
+        "name:nl": "Kwale",
+        "name:no": "Kwale",
+        "name:pl": "Kwale",
+        "name:sv": "Kwale",
+        "name:sw": "Kwale",
+        "name:ur": "کوالے کاؤنٹی",
+        "name:vi": "Kwale",
+        "name:zh": "夸勒郡",
+        "name:zu": "Kwale"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-05-19T11:56:45+00:00",
+    "importance": 0.41911079745041496,
+    "calculated_importance": 0.41911079745041496,
+    "extratags": {
+        "CONST_CODE": "10",
+        "CONSTITUEN": "KINANGO",
+        "COUNTY_COD": "19",
+        "COUNTY_NAM": "KWALE",
+        "ID_": "6600",
+        "OBJECTID": "3",
+        "Shape_Area": "0.75826601303",
+        "Shape_Leng": "4.28418177601",
+        "wikidata": "Q952571",
+        "wikipedia": "en:Kwale County"
+    },
+    "calculated_wikipedia": "en:Kwale_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            39.105094975232994,
+            -4.1836067
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.105094975,
+            -4.1836067
+        ]
+    },
+    "address": [
+        {
+            "localname": "Kwale",
+            "place_id": 285171424,
+            "osm_id": 3495548,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Coastal Kenya",
+            "place_id": 285741286,
+            "osm_id": 9721636,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.9058267382011903e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

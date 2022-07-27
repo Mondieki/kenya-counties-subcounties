@@ -1,0 +1,118 @@
+{
+    "place_id": 298462399,
+    "parent_place_id": 0,
+    "osm_type": "R",
+    "osm_id": 3492709,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nairobi County",
+    "names": {
+        "alt_name:ko": "나이로비현",
+        "ISO3166-2": "KE-30",
+        "name": "Nairobi",
+        "name:ceb": "Nairobi",
+        "name:de": "Nairobi County",
+        "name:en": "Nairobi County",
+        "name:es": "Condado de Nairobi",
+        "name:et": "Nairobi maakond",
+        "name:fa": "شهرستان نایروبی",
+        "name:fi": "Nairobin piirikunta",
+        "name:fr": "Comté de Nairobi",
+        "name:id": "County Nairobi",
+        "name:it": "Contea di Nairobi",
+        "name:ja": "ナイロビ",
+        "name:ko": "나이로비",
+        "name:nan": "Nairobi Kūn",
+        "name:nl": "Nairobi County",
+        "name:no": "Nairobi fylke",
+        "name:pl": "Nairobi",
+        "name:sw": "Kaunti ya Nairobi",
+        "name:ur": "نیروبی کاؤنٹی",
+        "name:vi": "Nairobi",
+        "name:wuu": "内罗毕郡",
+        "name:yue": "奈洛比郡",
+        "name:zh": "内罗毕郡",
+        "name:zh-Hans": "内罗毕郡",
+        "name:zh-Hant": "內羅畢郡",
+        "name:zu": "Nairobi County"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0.39456551741826495,
+    "calculated_importance": 0.39456551741826495,
+    "extratags": {
+        "CONST_CODE": "288",
+        "CONSTITUEN": "KAMUKUNJI",
+        "COUNTY_COD": "47",
+        "COUNTY_NAM": "NAIROBI",
+        "ID_": "5543",
+        "OBJECTID": "1",
+        "Shape_Area": "0.057422949",
+        "Shape_Leng": "1.55978672217",
+        "wikidata": "Q3335223"
+    },
+    "calculated_wikipedia": "en:Nairobi_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.8260678052949,
+            -1.3031689499999999
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.826067805,
+            -1.30316895
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nairobi County",
+            "place_id": 298462399,
+            "osm_id": 3492709,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "place_id": 298025699,
+    "parent_place_id": 299148127,
+    "osm_type": "R",
+    "osm_id": 3486290,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nyamira County",
+    "names": {
+        "ISO3166-2": "KE-34",
+        "name": "Nyamira",
+        "name:ceb": "Nyamira",
+        "name:de": "Nyamira County",
+        "name:en": "Nyamira County",
+        "name:es": "Condado de Nyamira",
+        "name:fa": "شهرستان نیامیرا",
+        "name:fr": "Comté de Nyamira",
+        "name:id": "County Nyamira",
+        "name:it": "Contea di Nyamira",
+        "name:ja": "ニャミラ",
+        "name:ko": "니아미라현",
+        "name:nan": "Nyamira Kūn",
+        "name:nl": "Nyamira County",
+        "name:no": "Nyamira fylke",
+        "name:pl": "Nyamira",
+        "name:sv": "Nyamira",
+        "name:sw": "Kaunti ya Nyamira",
+        "name:ur": "نیامیرا کاؤنٹی",
+        "name:vi": "Nyamira",
+        "name:zh": "尼亞米拉郡",
+        "name:zu": "Nyamira County",
+        "ref": "46"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0,
+    "calculated_importance": 0.55,
+    "extratags": {
+        "admin_type:KE": "county",
+        "border_type": "county",
+        "land_area": "administrative",
+        "wikidata": "Q1569613",
+        "wikipedia": "en:Nyamira County"
+    },
+    "calculated_wikipedia": null,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            34.934130799923295,
+            -0.65225405
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.9341308,
+            -0.65225405
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nyamira County",
+            "place_id": 298025699,
+            "osm_id": 3486290,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Nyanza",
+            "place_id": 299148127,
+            "osm_id": 9721653,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 4.5976286806517034e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

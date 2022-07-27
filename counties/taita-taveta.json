@@ -1,0 +1,125 @@
+{
+    "place_id": 298334480,
+    "parent_place_id": 299279293,
+    "osm_type": "R",
+    "osm_id": 3495560,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Taita-Taveta",
+    "names": {
+        "ISO3166-2": "KE-39",
+        "name": "Taita Taveta",
+        "name:ceb": "Taita Taveta",
+        "name:de": "Taita-Taveta",
+        "name:en": "Taita-Taveta",
+        "name:es": "Taita-Taveta",
+        "name:fa": "شهرستان تایتا-تاوتا",
+        "name:fr": "Taita-Taveta",
+        "name:id": "Taita-Taveta",
+        "name:it": "Taita-Taveta",
+        "name:ja": "タイタ＝タヴェタ",
+        "name:ko": "타이타타베타현",
+        "name:nan": "Taita-Taveta",
+        "name:nl": "Taita Taveta",
+        "name:no": "Taita-Taveta",
+        "name:pl": "Taita-Taveta",
+        "name:sv": "Taita-Taveta",
+        "name:sw": "Taita-Taveta",
+        "name:ur": "تائتا-تاویتا کاؤنٹی",
+        "name:vi": "Taita-Taveta",
+        "name:zh": "泰塔塔維塔郡",
+        "name:zu": "Taita-Taveta"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:40+00:00",
+    "importance": 0,
+    "calculated_importance": 0.55,
+    "extratags": {
+        "CONST_CODE": "24",
+        "CONSTITUEN": "WUNDANYI",
+        "COUNTY_COD": "6",
+        "COUNTY_NAM": "TAITA TAVETA",
+        "OBJECTID": "7",
+        "Shape_Area": "1.39385877374",
+        "Shape_Leng": "5.5844513245",
+        "wikidata": "Q7193788",
+        "wikipedia": "en:Taita-Taveta County"
+    },
+    "calculated_wikipedia": null,
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            38.36706762808966,
+            -3.4178355
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            38.367067628,
+            -3.4178355
+        ]
+    },
+    "address": [
+        {
+            "localname": "Taita-Taveta",
+            "place_id": 298334480,
+            "osm_id": 3495560,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Coastal Kenya",
+            "place_id": 299279293,
+            "osm_id": 9721636,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 1.741722143151442e-5,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "place_id": 297989778,
+    "parent_place_id": 298557067,
+    "osm_type": "R",
+    "osm_id": 3495557,
+    "category": "boundary",
+    "type": "administrative",
+    "admin_level": 4,
+    "localname": "Nyandarua",
+    "names": {
+        "ISO3166-2": "KE-35",
+        "name": "Nyandarua",
+        "name:ceb": "Nyandarua",
+        "name:de": "Nyandarua",
+        "name:en": "Nyandarua",
+        "name:es": "Nyandarua",
+        "name:fa": "شهرستان نیانداروا",
+        "name:fi": "Nyandaruan",
+        "name:fr": "Nyandarua",
+        "name:id": "Nyandarua",
+        "name:it": "Nyandarua",
+        "name:ja": "ニャンダルア",
+        "name:ko": "니안다루아현",
+        "name:nan": "Nyandarua",
+        "name:nl": "Nyandarua",
+        "name:no": "Nyandarua",
+        "name:pl": "Nyandarua",
+        "name:ru": "Ньяндаруа",
+        "name:sv": "Nyandarua",
+        "name:sw": "Nyandarua",
+        "name:ur": "نیانداروا کاؤنٹی",
+        "name:vi": "Nyandarua",
+        "name:zh": "年達魯阿郡",
+        "name:zu": "Nyandarua"
+    },
+    "addresstags": [],
+    "housenumber": null,
+    "calculated_postcode": null,
+    "country_code": "ke",
+    "indexed_date": "2022-07-15T23:47:39+00:00",
+    "importance": 0.40215323378951273,
+    "calculated_importance": 0.40215323378951273,
+    "extratags": {
+        "CONST_CODE": "90",
+        "CONSTITUEN": "KIPIPIRI",
+        "COUNTY_COD": "18",
+        "COUNTY_NAM": "NYANDARUA",
+        "ID_": "3699",
+        "OBJECTID": "18",
+        "Shape_Area": "0.26542309571",
+        "Shape_Leng": "3.48082504881",
+        "wikidata": "Q1714352",
+        "wikipedia": "en:Nyandarua County"
+    },
+    "calculated_wikipedia": "en:Nyandarua_County",
+    "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png",
+    "rank_address": 8,
+    "rank_search": 8,
+    "isarea": true,
+    "centroid": {
+        "type": "Point",
+        "coordinates": [
+            36.49776838093413,
+            -0.39155344999999997
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.497768381,
+            -0.39155345
+        ]
+    },
+    "address": [
+        {
+            "localname": "Nyandarua",
+            "place_id": 297989778,
+            "osm_id": 3495557,
+            "osm_type": "R",
+            "place_type": null,
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 4,
+            "rank_address": 8,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "Central Kenya",
+            "place_id": 298557067,
+            "osm_id": 9721572,
+            "osm_type": "R",
+            "place_type": "state",
+            "class": "boundary",
+            "type": "administrative",
+            "admin_level": 3,
+            "rank_address": 6,
+            "distance": 3.673618995676854e-6,
+            "isaddress": true
+        },
+        {
+            "localname": "Kenya",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": true
+        },
+        {
+            "localname": "ke",
+            "place_id": null,
+            "osm_id": null,
+            "osm_type": null,
+            "place_type": null,
+            "class": "place",
+            "type": "country_code",
+            "admin_level": null,
+            "rank_address": 4,
+            "distance": 0,
+            "isaddress": false
+        }
+    ]
+}
