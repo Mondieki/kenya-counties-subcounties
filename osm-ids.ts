@@ -1,0 +1,237 @@
+export const OSM_IDs = [
+    {
+        name: "Baringo",
+        osm_type: "R",
+        osm_id: 3495537
+    },
+    {
+        name: "Bomet",
+        osm_type: "R",
+        osm_id: 3338139
+    },
+    {
+        name: "Bungoma",
+        osm_type: "R",
+        osm_id: 3495538
+    },
+    {
+        name: "Busia",
+        osm_type: "R",
+        osm_id: 3486321
+    },
+    {
+        name: "Elgeyo-Marakwet",
+        osm_type: "R",
+        osm_id: 11981582
+    },
+    {
+        name: "Embu",
+        osm_type: "R",
+        osm_id: 3495540
+    },
+    {
+        name: "Garissa",
+        osm_type: "R",
+        osm_id: 3495541
+    },
+    {
+        name: "Homa Bay",
+        osm_type: "R",
+        osm_id: 3486017
+    },
+    {
+        name: "Isiolo",
+        osm_type: "R",
+        osm_id: 3495542
+    },
+    {
+        name: "Kajiado",
+        osm_type: "R",
+        osm_id: 3486020
+    },
+    {
+        name: "Kakamega",
+        osm_type: "R",
+        osm_id: 3495543
+    },
+    {
+        name: "Kericho",
+        osm_type: "R",
+        osm_id: 3486288
+    },
+    {
+        name: "Kiambu",
+        osm_type: "R",
+        osm_id: 3495544
+    },
+    {
+        name: "Kilifi",
+        osm_type: "R",
+        osm_id: 3495545
+    },
+    {
+        name: "Kirinyaga",
+        osm_type: "R",
+        osm_id: 3495546
+    },
+    {
+        name: "Kisii",
+        osm_type: "R",
+        osm_id: 3338140
+    },
+    {
+        name: "Kisumu",
+        osm_type: "R",
+        osm_id: 3486289
+    },
+    {
+        name: "Kitui",
+        osm_type: "R",
+        osm_id: 3495547
+    },
+    {
+        name: "Kwale",
+        osm_type: "R",
+        osm_id: 3495548
+    },
+    {
+        name: "Laikipia",
+        osm_type: "R",
+        osm_id: 3495549
+    },
+    {
+        name: "Lamu",
+        osm_type: "R",
+        osm_id: 3495550
+    },
+    {
+        name: "Machakos",
+        osm_type: "R",
+        osm_id: 3492707
+    },
+    {
+        name: "Makueni",
+        osm_type: "R",
+        osm_id: 3492708
+    },
+    {
+        name: "Mandera",
+        osm_type: "R",
+        osm_id: 3495551
+    },
+    {
+        name: "Marsabit",
+        osm_type: "R",
+        osm_id: 3495552
+    },
+    {
+        name: "Meru",
+        osm_type: "R",
+        osm_id: 3495553
+    },
+    {
+        name: "Migori",
+        osm_type: "R",
+        osm_id: 3486018
+    },
+    {
+        name: "Mombasa",
+        osm_type: "R",
+        osm_id: 3495554
+    },
+    {
+        name: "Murang'a",
+        osm_type: "R",
+        osm_id: 3977580
+    },
+    {
+        name: "Nairobi",
+        osm_type: "R",
+        osm_id: 3492709
+    },
+    {
+        name: "Nakuru",
+        osm_type: "R",
+        osm_id: 3486019
+    },
+    {
+        name: "Nandi",
+        osm_type: "R",
+        osm_id: 3495556
+    },
+    {
+        name: "Narok",
+        osm_type: "R",
+        osm_id: 3338145
+    },
+    {
+        name: "Nyamira",
+        osm_type: "R",
+        osm_id: 3486290
+    },
+    {
+        name: "Nyandarua",
+        osm_type: "R",
+        osm_id: 3495557
+    },
+    {
+        name: "Nyeri",
+        osm_type: "R",
+        osm_id: 3495558
+    },
+    {
+        name: "Samburu",
+        osm_type: "R",
+        osm_id: 3495559
+    },
+    {
+        name: "Siaya",
+        osm_type: "R",
+        osm_id: 3486291
+    },
+    {
+        name: "Taita Taveta",
+        osm_id: 3495560,
+        osm_type: "R"
+    },
+    {
+        name: "Tana River",
+        osm_type: "R",
+        osm_id: 3495561
+    },
+    {
+        name: "Tharaka Nithi",
+        osm_type: "R",
+        osm_id: 3495562
+    },
+    {
+        name: "Trans Nzoia",
+        osm_type: "R",
+        osm_id: 3495563
+    },
+    {
+        name: "Turkana",
+        osm_type: "R",
+        osm_id: 3495564
+    },
+    {
+        name: "Uasin Gishu",
+        osm_type: "R",
+        osm_id: 3495565
+    },
+    {
+        name: "Vihiga",
+        osm_type: "R",
+        osm_id: 3486322
+    },
+    {
+        name: "Wajir",
+        osm_type: "R",
+        osm_id: 3495566
+    },
+    {
+        name: "West Pokot",
+        osm_type: "R",
+        osm_id: 11981571
+    }
+];
