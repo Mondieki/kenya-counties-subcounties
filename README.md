@@ -1,7 +1,8 @@
-# List of Kenyan counties, theri respective subcounties and their polygon boundaries
+# List of Kenyan counties, their respective subcounties and their polygon boundaries
 
 This .JSON file shows the list of (47) counties in Kenya, their codes, their geoJSON info(polygon coordinates) and respective subcounties.
 
+---
 ### The .json structure — key and value pairs
 ```
 [
@@ -63,10 +64,12 @@ This .JSON file shows the list of (47) counties in Kenya, their codes, their geo
 ]
 ```
 
+---
 ### counties/{county}.json
 
 This .JSON file contains the [OSM](https://www.openstreetmap.org/) information for the county.
 
+---
 
 ### geojson/${county}.json
 
