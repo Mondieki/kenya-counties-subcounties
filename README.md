@@ -3,7 +3,7 @@
 This .JSON file shows the list of (47) counties in Kenya, their codes, their geoJSON info(polygon coordinates) and respective subcounties.
 
 ---
-### The .json structure — key and value pairs
+### The counties.json structure
 ```
 [
     {
@@ -71,6 +71,16 @@ This .JSON file contains the [OSM](https://www.openstreetmap.org/) information f
 
 ---
 
-### geojson/${county}.json
+### geojson/{county}.json
 
 Polygons are represented by the coordinates of their vertices. The vertices are represented using WGS 84 latitude and longitude pairs. 
+
+---
+
+### coordinates/{county}.json
+Center coordinates and mutlipolyogon coordinates for the county.
+
+---
+### See it in action
+
+Play around with [this demo](https://countieskenya.info).
