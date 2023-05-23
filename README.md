@@ -1,9 +1,10 @@
-# List of Kenyan counties, their respective subcounties and their polygon boundaries
+# Kenyan Counties, Subcounties, and Polygon Boundaries
 
-This .JSON file shows the list of (47) counties in Kenya, their codes, their geoJSON info(polygon coordinates) and respective subcounties.
+This repository hosts a comprehensive .JSON file containing data for all 47 counties in Kenya, including their codes, geoJSON information (polygon coordinates), respective subcounties, and capital cities.
 
 ---
-### The counties.json structure
+### Structure of counties.json
+
 ```
 [
     {
@@ -32,6 +33,7 @@ This .JSON file shows the list of (47) counties in Kenya, their codes, their geo
         "sub_counties": [
             "Daadab",
             "Fafi",
+            .
             .
             .
             "Ijara",
@@ -63,24 +65,30 @@ This .JSON file shows the list of (47) counties in Kenya, their codes, their geo
     }
 ]
 ```
-
----
-### counties/{county}.json
-
-This .JSON file contains the [OSM](https://www.openstreetmap.org/) information for the county.
-
 ---
 
-### geojson/{county}.json
+### Specific County Data: counties/{county}.json
 
-Polygons are represented by the coordinates of their vertices. The vertices are represented using WGS 84 latitude and longitude pairs. 
+Each specific county .JSON file contains [OpenStreetMap](https://www.openstreetmap.org/) information corresponding to the respective county.
 
 ---
 
-### coordinates/{county}.json
-Center coordinates and mutlipolyogon coordinates for the county.
+### GeoJSON Data: geojson/{county}.json
+
+Polygon representations are given by coordinates of their vertices, provided as pairs of latitude and longitude using the WGS 84 coordinate system.
 
 ---
-### See it in action
 
-Play around with [this demo](https://countieskenya.info).
+### Coordinate Data: coordinates/{county}.json
+
+This file includes center coordinates and multipolygon coordinates for each county.
+
+---
+
+### Demonstration
+
+To interact with a demonstration of the data visualized, visit [this demo](https://countieskenya.info).
+
+## License
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/Mondieki/kenya-counties-subcounties.git/blob/master/LICENSE) file.
