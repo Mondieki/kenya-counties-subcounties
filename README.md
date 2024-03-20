@@ -77,6 +77,8 @@ Each specific county .JSON file contains [OpenStreetMap](https://www.openstreetm
 
 Polygon representations are given by coordinates of their vertices, provided as pairs of latitude and longitude using the WGS 84 coordinate system.
 
+To render GeoJSON on web apps, [read this](https://github.com/Mondieki/kenya-counties-subcounties/blob/master/DOCS/render.md)
+
 ---
 
 ### Coordinate Data: coordinates/{county}.json
@@ -87,8 +89,8 @@ This file includes center coordinates and multipolygon coordinates for each coun
 
 ### Demonstration
 
-To interact with a demonstration of the data visualized, visit [this demo](https://countieskenya.info).
+To interact with a demonstration of the data visualized, visit [this demo](https://mondieki.github.io/kenya-counties-demo/).
 
 ## License
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/Mondieki/kenya-counties-subcounties.git/blob/master/LICENSE) file.
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/Mondieki/kenya-counties-subcounties/blob/master/LICENSE.md) file.
