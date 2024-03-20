@@ -93,4 +93,4 @@ To interact with a demonstration of the data visualized, visit [this demo](https
 
 ## License
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/Mondieki/kenya-counties-subcounties/blob/master/LICENSE.md) file.
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](https://github.com/Mondieki/kenya-counties-subcounties/blob/master/LICENSE) file.
